@@ -1,0 +1,6 @@
+My hunter:
+    le but est de tirer sur les étoiles filantes qui se déplacent dans le ciel.
+    entrainer votre aim !
+fonctionnalitées:
+    clique avec n'importe qu'elle touche de la souris sur une étoile filante pour marquer des points.
+    pour quitter le jeu clicker sur la croix en haut à droite.

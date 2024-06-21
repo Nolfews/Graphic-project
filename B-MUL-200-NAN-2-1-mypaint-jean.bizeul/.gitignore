@@ -1,0 +1,10 @@
+## files
+*.o
+*.a
+*.gcno
+*.gcda
+*.log
+unit_tests
+my_paint
+
+## folders
